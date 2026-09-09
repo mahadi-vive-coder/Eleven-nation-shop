@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Eleven Nation - Premium Football Jerseys",
+  "description": "Production-ready premium football jersey e-commerce platform for Eleven Nation (Bangladesh) featuring Player editions, Fan editions, Retro kits, Custom printing, Order tracking, and Admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
