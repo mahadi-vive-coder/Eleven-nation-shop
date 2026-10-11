@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="130" viewBox="0 0 110 130" role="img" aria-labelledby="title desc">
+  <title id="title">Geometric gold mark</title>
+  <desc id="desc">A geometric gold mark with four angular strokes, three evenly aligned tapered bars, and two centered square blocks.</desc>
+  <!-- Transparent background -->
+  <g fill="#E5BC75">
+    <!-- Upper-left angular stroke -->
+    <path d="M14 11 L18 1 H51 V55 H42 V11 Z"/>
+    <!-- Inner-left angular stroke -->
+    <path d="M4 28 L8 18 H35 V55 H25 V28 Z"/>
+    <!-- Upper-right / outer tall stroke -->
+    <path d="M63 11 L69 1 H104 V124 H95 V11 Z"/>
+    <!-- Inner tall stroke -->
+    <path d="M63 28 L68 18 H86 V124 H79 V28 Z"/>
+
+    <!-- Three equal-height trapezoids, all centered on x=34 -->
+    <path d="M0 63 H68 L63 72 H5 Z"/>
+    <path d="M4 76 H64 L59 85 H9 Z"/>
+    <path d="M9 89 H59 L54 98 H14 Z"/>
+
+    <!-- Two identical square blocks, evenly spaced and centered as a pair -->
+    <rect x="23" y="104" width="9" height="9"/>
+    <rect x="36" y="104" width="9" height="9"/>
+  </g>
+</svg>
