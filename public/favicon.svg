@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="130" viewBox="0 0 110 130" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130" role="img" aria-labelledby="title desc">
   <title id="title">Geometric gold mark</title>
   <desc id="desc">A geometric gold mark with four angular strokes, three evenly aligned tapered bars, and two centered square blocks.</desc>
   <!-- Transparent background -->
-  <g fill="#E5BC75">
+  <g fill="#E5BC75" transform="translate(10, 0)">
     <!-- Upper-left angular stroke -->
     <path d="M14 11 L18 1 H51 V55 H42 V11 Z"/>
     <!-- Inner-left angular stroke -->
